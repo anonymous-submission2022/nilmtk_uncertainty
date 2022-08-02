@@ -1,0 +1,4 @@
+MLP training :Wall time: 18.2 s  MLP Testing : Wall time: 1.66 s
+MC Testing : Wall time: 2.44 s
+DE Training Time : Wall time: 2min 16s  DE Testing Time: Wall time: 4.59 s
+BS Training Time : Wall time: 2min 18s  BS Testing Time: Wall time: 501 ms
