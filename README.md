@@ -1,14 +1,11 @@
-# bnn-zoo
+# “I do not know”: Quantifying Uncertainty in Neural Network Based Approaches for Non-Intrusive Load Monitoring
 
-This repository contains implementation of MLP(Multi-layer Perceptron) from scratch using JAX, scikit-learn, matplotlib, seaborn, probml-utils for latexifying
-and jaxifying. 
+This repository contains all the experiments conducted for the Buildsys 2022 paper. The entire code is written using JAX and flax.
 
-Contents: 
+## Contents: 
 
-1. Basic MLP 
-2. Gaussian MLP
-3. Deep Ensemble with and without Gaussian MLP
-4. Bootstrap with and without Gaussian MLP
-5. MC Dropout
-
-For both Classification and Regression. 
+- datasets:- Contains the entire dataset and the dataset loader
+- models:- Contains the code for model used for the paper
+- notebooks:- Contains all the 
+notebooks for experiments and analysis
+- utilities:- Contains all the function for preprocessing, training, fitting, error calculation, plotting.
