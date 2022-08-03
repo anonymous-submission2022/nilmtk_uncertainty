@@ -5,6 +5,7 @@ This repository contains all the experiments conducted for the Buildsys 2022 pap
 ## Contents: 
 
 - datasets:- Contains the entire dataset and the dataset loader
+- figures:- All the figures of the paper
 - models:- Contains the code for model used for the paper
 - notebooks:- Contains all the 
 notebooks for experiments and analysis
